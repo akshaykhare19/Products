@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Products</string>
+    <string name="price">Price: $ %3.2f</string>
+    <string name="category">Category: %s</string>
+    <string name="description">DESCRIPTION</string>
+</resources>
